@@ -17,7 +17,7 @@
 - Continuous integration (CI) with github actions
 
 
-  ## Descripción del VideoJuego - Video Game Description
+## Descripción del VideoJuego - Video Game Description
 
   El objetivo del juego es simular, de manera cómica, el recorrido académico de un estudiante de ingeniería en FCEFyN-UNC. Al correr el juego, se muestra el menú principal, que permite al jugador elegir un nombre para su avatar antes de hacer clic en el botón de inicio. El jugador deberá moverse por la facultad y rendir exámenes para progresar en el juego. Cada examen requiere un nivel determinado de créditos, cafeína y un objeto específico que ha sido ocultado en una ubicación particular de la institución o que se puede comprar en una tienda específica con la moneda del juego. Esta información previa se puede consultar haciendo clic en un botón en la esquina superior izquierda de la ventana del juego (debajo del nombre del jugador) que abre la mochila del estudiante. El nivel de cafeína disminuye a medida que el jugador se mueve, para restaurarlo, se pueden comprar y consumir café y mate. En caso de aprobar un examen, se obtendrá una cierta cantidad de créditos; de lo contrario, la barra de vida se reducirá en un 25%. Si el jugador "muere" (la barra de vida llega al 0%), se muestra un botón de reinicio que, al hacer clic en él, lleva al jugador de vuelta al menú principal.
 
