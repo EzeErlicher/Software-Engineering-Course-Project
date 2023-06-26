@@ -1,10 +1,21 @@
-# Juego de Roll - Nombre de Grupo: TEJ / Roll game - Group Name: TEJ
+# Acerca del proyecto del grupo "TEJ" - About the "TEJ" group project
 
-  En el presente repositorio se encuentra el Proyecto Final para la materia Ingenieria del Software, dictado en la carrera de Ingenieria en Computacion, el cual busca
-implementar los conocimientos dictados en un proyecto concreto y real, en este caso, en el desarrollodel presente Juego.Esperamos que el mismo sea de su agrado, ya que fue realizado con la intencion de poder mostrar la institucion de la Facultad de Ciencias Exactas, Fisicas y Naturales, y poder dar una pequeña primera impresion de como seria ser un Estudiante en dicho establecimiento educativo,teniendo la oportunidad de recorrer los pasillos de la misma, y experimentar de primera mano una
-esquematizacion de examen para poder seguir avanzando en la decision tomada sobre su Futuro Profesional. Nuestro objetivo es que cualquier persona que se encuentre interesada en conocer dicha experiencia pueda hacerlo mediante este Video Juego.(Actualmente solo se encuentra implementado el primer año de la carrera  de Ingenieria en Computacion, el objetivo es representar las 11 carreras que ofrece la FCEFyN-UNC)
+  En el presente repositorio, se encuentra el Proyecto Final para la materia Ingenieria del Software dictado en la carrera de Ingenieria en Computacion. Este proyecto busca implementar los conocimientos dictados en un proyecto concreto y real, en este caso, en el desarrollodel presente Juego.Esperamos que el mismo sea de su agrado, ya que fue realizado con la intencion de poder mostrar la institucion de la Facultad de Ciencias Exactas, Fisicas y Naturales, y poder dar una pequeña primera impresion de como seria ser un Estudiante en dicho establecimiento educativo,teniendo la oportunidad de recorrer los pasillos de la misma, y experimentar de primera mano una esquematizacion de examen para poder seguir avanzando en la decision tomada sobre su Futuro Profesional. Nuestro objetivo es que cualquier persona que se encuentre interesada en conocer dicha experiencia pueda hacerlo mediante este Video Juego.(Actualmente solo se encuentra implementado el primer año de la carrera  de Ingenieria en Computacion, el objetivo es representar las 11 carreras que ofrece la FCEFyN-UNC)
 
-  In the present repository, you will find the Final Project for the Software Engineering course taught as part of the Computer Engineering program at FCEFyN-UNC. The project aims to implement the adquired knowledge into a specific project, in this case, the development of a simple Game. We hope you enjoy it, as it was created with the intention of showcasing the institution of the Faculty of Exact, Physical, and Natural Sciences, and giving a fun first impression of what it would be like to be a student in this educational establishment. You will be to walk through its hallways and experience a schematic representation of an exam in order to continue progressing in your chosen professional future.(Currently, only the first year of the Computer Engineering career is being implemented, the goal is to represent all 11 careers offered by the FCEFyN-UNC)
+  In the present repository, you will find the Final Project for the Software Engineering course taught as part of the Computer Engineering program at FCEFyN-UNC. This project aims to implement the adquired knowledge into a specific project, in this case, the development of a simple Game. We hope you enjoy it, as it was created with the intention of showcasing the institution of the Faculty of Exact, Physical, and Natural Sciences, and giving a fun first impression of what it would be like to be a student in this educational establishment. You will be to walk through its hallways and experience a schematic representation of an exam in order to continue progressing in your chosen professional future.(Currently, only the first year of the Computer Engineering career is being implemented, the goal is to represent all 11 careers offered by the FCEFyN-UNC)
+
+## Conceptos aplicados - Applied concepts:
+
+- Patrones de diseño (Observer y Strategy).
+- Patrones de arquitectura (Modelo vista controlador)
+- Unit testing con JUnit5.
+- Integración continua (CI) con github actions
+----------------------------------------------------------------------
+- Design patterns (Observer and strategy).
+- Architecture patterns (Model view controller)
+- Unit testing with JUnit5.
+- Continuous integration (CI) with github actions
+
 
   ## Descripción del VideoJuego - Video Game Description
 
@@ -18,8 +29,7 @@ esquematizacion de examen para poder seguir avanzando en la decision tomada sobr
 - Contar con IDE para correr el programa.
 - Disponibilidad de 100mb o mas en almacenamiento.
 - Pantalla igual o superior a 1280x720 px.
-
- 
+------------------------------------------------------------------ 
 - Java JDK 19 or later versions.
 - An IDE to run the program.
 - At least 100MB of available storage.
@@ -32,8 +42,7 @@ esquematizacion de examen para poder seguir avanzando en la decision tomada sobr
 - Posteriormente, agregar la carpeta al IDE donde desees correrlo.
 - Una vez instanciado el proyecto dentro del IDE, dirigirse a la carpeta src/main/java/controller
 - Seleccionar el archivo Main como principal para ejecutar al proyecto.
-   
-
+------------------------------------------------------------------------------------------------------------   
 - Download the project in ZIP format from: https://github.com/EzeErlicher/Software-Engineering-Subject
 - Extract the file to a folder on your computer where you want to save it.
 - Add the folder to the IDE where you want to run it.
