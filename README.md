@@ -18,21 +18,21 @@ esquematizacion de examen para poder seguir avanzando en la decision tomada sobr
 - Contar con IDE para correr el programa.
 - Disponibilidad de 100mb o mas en almacenamiento.
 - Pantalla igual o superior a 1280x720 px.
-
--Java JDK 19 or later versions.
--An IDE to run the program.
--At least 100MB of available storage.
--Screen resolution equal to or greater than 1280x720 px.
+- 
+- Java JDK 19 or later versions.
+- An IDE to run the program.
+- At least 100MB of available storage.
+- Screen resolution equal to or greater than 1280x720 px.
 
 ## Instalación - Installation
 
-1. Descargar el proyecto en formato ZIP desde: 
+1. Descargar el proyecto en formato ZIP desde: https://github.com/EzeErlicher/Software-Engineering-Subject
 2. Descomprima el archivo en una carpeta de tu computadora, en donde desees que se guarde.
 3. Posteriormente, agregar la carpeta al IDE donde desees correrlo.
 4. Una vez instanciado el proyecto dentro del IDE, dirigirse a la carpeta src/main/java/controller
 5. Seleccionar el archivo Main como principal para ejecutar al proyecto.
 
-1. Download the project in ZIP format from: 
+1. Download the project in ZIP format from: https://github.com/EzeErlicher/Software-Engineering-Subject
 2. Extract the file to a folder on your computer where you want to save it.
 3. Add the folder to the IDE where you want to run it.
 4. Once the project is instantiated within the IDE, go to the src/main/java/controller folder.
