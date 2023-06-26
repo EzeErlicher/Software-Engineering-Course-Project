@@ -18,7 +18,7 @@ esquematizacion de examen para poder seguir avanzando en la decision tomada sobr
 - Contar con IDE para correr el programa.
 - Disponibilidad de 100mb o mas en almacenamiento.
 - Pantalla igual o superior a 1280x720 px.
-- 
+ 
 - Java JDK 19 or later versions.
 - An IDE to run the program.
 - At least 100MB of available storage.
