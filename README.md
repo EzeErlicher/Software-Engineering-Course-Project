@@ -37,13 +37,13 @@
 
 ## Instalación - Installation
 
-- Descargar el proyecto en formato ZIP desde: https://github.com/EzeErlicher/Software-Engineering-Subject
+- Descargar el proyecto en formato ZIP (click en "Code <>")
 - Descomprima el archivo en una carpeta de tu computadora, en donde desees que se guarde.
 - Posteriormente, agregar la carpeta al IDE donde desees correrlo.
 - Una vez instanciado el proyecto dentro del IDE, dirigirse a la carpeta src/main/java/controller
 - Seleccionar el archivo Main como principal para ejecutar al proyecto.
 ------------------------------------------------------------------------------------------------------------   
-- Download the project in ZIP format from: https://github.com/EzeErlicher/Software-Engineering-Subject
+- Download the project in ZIP format (click on "Code <>")
 - Extract the file to a folder on your computer where you want to save it.
 - Add the folder to the IDE where you want to run it.
 - Once the project is instantiated within the IDE, go to the src/main/java/controller folder.
